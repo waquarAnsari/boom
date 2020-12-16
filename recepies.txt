@@ -8,6 +8,9 @@ HELLO Welcome to Adil Kitchen
 2 S2 
 3 Zarda
 4 kheer
+5 pasta
+6 ice-cream
+7 Burger
 
 
 
